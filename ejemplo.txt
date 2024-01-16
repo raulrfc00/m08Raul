@@ -2,3 +2,6 @@ escribiendo
 texto
 de
 ejemplo
+
+
+g
